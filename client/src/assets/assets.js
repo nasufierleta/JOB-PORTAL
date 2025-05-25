@@ -84,10 +84,10 @@ export const JobCategories = [
 
 export const JobLocations = [
     "Prishtina",
-    "Washington",
+    "London",
     "Berlin",
     "Rome",
-    "California",
+    "Tirana",
     "Tokyo",
     "Warsaw",
     "New York"
